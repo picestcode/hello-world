@@ -1,5 +1,5 @@
-# hello-world
-A first exercise.
+# readme-edits
+The second exercise.
 You’ll learn how to:
 
 Create and use a repository
